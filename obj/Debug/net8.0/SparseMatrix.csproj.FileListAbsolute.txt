@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\bin\Debug\net8.0\SparseMatrix.exe
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\bin\Debug\net8.0\SparseMatrix.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\bin\Debug\net8.0\SparseMatrix.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\bin\Debug\net8.0\SparseMatrix.dll
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\bin\Debug\net8.0\SparseMatrix.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\SparseMatrix.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\SparseMatrix.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\SparseMatrix.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\SparseMatrix.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\SparseMatrix.dll
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\refint\SparseMatrix.dll
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\SparseMatrix.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\SparseMatrix.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\SparseMatrix\obj\Debug\net8.0\ref\SparseMatrix.dll
